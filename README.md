@@ -8,7 +8,7 @@
 I am a developer who is looking forward to create a lot of good stuffs and also to contribute some of the cool stuffs to this beautiful world. Exploring the tech domain.
 
 ## **Blog Website** ##
-<a href="https://itsharvihere.hashnode.dev/"><img alt="Blog Website" src="https://img.shields.io/badge/Coffee-Buy%20Me%20A%20Coffee-purple?style=flat-square&logo=hashnode"></a>
+<a href="https://itsharvihere.hashnode.dev/"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-yellow?style=flat-square&logo=hashnode"></a>
 
  ## Tools / Languages:
 
