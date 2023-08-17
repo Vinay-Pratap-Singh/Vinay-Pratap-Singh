@@ -1,34 +1,96 @@
-<a href="https://twitter.com/harvi2001"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Twitter%20Link-blue?style=flat-square&logo=twitter"></a>
-<a href="mailto:technicalharvi@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Mail%20Me-brightgreen?style=flat-square&logo=gmail"></a>
-<a href="https://www.linkedin.com/in/vinay-pratap-singh-4b265a212/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Connect%20Me-red?style=flat-square&logo=linkedin"></a>
-<a href="https://leetcode.com/itsharvihere/"><img alt="Leetcode" src="https://img.shields.io/badge/Leetcode-Coding%20Stats-orange?style=flat-square&logo=leetcode"></a>
-<a href="https://www.codingninjas.com/codestudio/profile/faa1e6c7-84aa-472e-8eb4-981497cfb398"><img alt="Coding Ninja" src="https://img.shields.io/badge/Coding%20Ninjas-Profile-yellow?style=flat-square&logo=codingninjas"></a>
+<h1 align="center">Hello, I'm Vinay Pratap Singh 👋</h1>
 
-## I am a **WEB DEVELOPER** ##
-I am a developer who is looking forward to create a lot of good stuffs and also to contribute some of the cool stuffs to this beautiful world. Exploring the tech domain.
+###
 
-## **Blog Website** ##
-<a href="https://itsharvihere.hashnode.dev/"><img alt="Blog Website" src="https://img.shields.io/badge/Blog-Visit%20It-yellow?style=flat-square&logo=hashnode"></a>
+<p align="left">🚀 Welcome to my GitHub profile! I'm a passionate frontend developer, dedicated to crafting engaging and user-centric web experiences. While I have a good understanding of backend development, my true passion lies in creating captivating frontend interfaces. My journey in the world of web development has equipped me with a robust skill set in JavaScript, React.js, Next.js, and TypeScriptJS.</p>
 
- ## Tools / Languages:
+###
 
-These are the tools and languages that I have worked with and have experience about using them.
+<h3 align="left">🌟 What I Bring to the Table:</h3>
 
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
+###
 
-## Github Stats 📃:
+<p align="left">🎨 Crafting Engaging Frontends: Adept at creating visually captivating and interactive frontend applications that captivate users' attention.<br><br>🚀 JavaScript Mastery: Skillfully wielding JavaScript to engineer dynamic and responsive web solutions, adding life to digital experiences.<br><br>⚛️ Empowering with React: Proficient in utilizing React.js to construct modular, reusable components that streamline development and enhance user interfaces.<br><br>🔄 Efficient State Management with Redux Toolkit: Leveraging Redux Toolkit to manage state effectively, simplifying complex data flow within applications.<br><br>🌐 Navigating with Next.js: Profound experience with Next.js for crafting server-rendered React applications that prioritize both speed and SEO.<br><br>🧙‍♂️ Championing TypeScript: Advocating for TypeScript to elevate code quality and long-term project sustainability.<br><br>🎨 Styling Excellence: Utilizing Chakra UI and Tailwind CSS for impeccable styling that enhances user interface design.<br><br>🏆 Project Accomplishments: Demonstrated my skillset through real-world projects, providing tangible proof of my technical capabilities.</p>
 
-<p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vinay-Pratap-Singh&count_private=true&include_all_commits=true&theme=tokyonight" alt="Vinay's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Pratap-Singh&layout=compact&theme=tokyonight" alt="Vinay's's top language stats" />
-</p>
+###
 
-**Support Me 🌈** <br/>
+<h3 align="left">🛠️ Tech Toolbox</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<h3 align="left">🌐 Connect & Collaborate</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vinay-pratap-singh-harvi-4b265a212/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/itsmevinayhere/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/harvi2001" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h3 align="left">🎉 Commit Timeline</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/Vinay-Pratap-Singh/Vinay-Pratap-Singh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<h3 align="left">📊 Coding Analytics</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Pratap-Singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stats at a Glance 📊" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-Pratap-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Languages 🌐" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Vinay-Pratap-Singh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<h3 align="left">🌈 Support Me</h3>
 <a href="https://www.buymeacoffee.com/itsharvihere"><img alt="Coffee" src="https://img.shields.io/badge/Coffee-Buy%20Me%20A%20Coffee-purple?style=for-the-badge&logo=buy-me-a-coffee&logoColor=cyan"></a>
+
+###
