@@ -70,22 +70,14 @@
 
 ###
 
-<h3 align="left">🎉 Commit Timeline</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/Vinay-Pratap-Singh/Vinay-Pratap-Singh/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">📊 Coding Analytics</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Pratap-Singh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Stats at a Glance 📊" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vinay-Pratap-Singh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Languages 🌐" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Vinay-Pratap-Singh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Pratap-Singh&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="streak graph"/>
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-Pratap-Singh&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Pratap-Singh&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="streak graph" />
 </div>
 
 ###
