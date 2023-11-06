@@ -78,8 +78,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Vinay-Pratap-Singh&theme=dracula&show_icons=true&hide_border=false&count_private=true" height="150" alt="streak graph"/>
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinay-Pratap-Singh&theme=dracula&hide_border=false" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-Pratap-Singh&theme=dracula&show_icons=true&hide_border=false&layout=compact" height="150" alt="streak graph" />
-  <br>
-  <img src="https://github.com/Vinay-Pratap-Singh/Vinay-Pratap-Singh/blob/output/snake.svg" height="150" alt="streak graph" />
 </div>
 
 ###
